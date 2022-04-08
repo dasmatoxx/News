@@ -4,3 +4,5 @@ psycopg2-binary
 Pillow
 drf-yasg
 python-decouple
+gunicorn
+psycopg2
